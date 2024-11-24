@@ -1,0 +1,211 @@
+[
+    {
+        "product_id": "LAP001",
+        "product_title": "Dell XPS 13",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLUQ3CPxdW3lJeMS3_ImqvSYZGxGxI5_n82A&s",
+        "category": "Laptop",
+        "price": 999.99,
+        "description": "Compact, high-performance laptop with a 13-inch display.",
+        "Specification": [
+            "Intel Core i7 Processor",
+            "16GB RAM",
+            "512GB SSD",
+            "Intel Iris Xe Graphics"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "WCH001",
+        "product_title": "Apple Watch Series 7",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzhLr9JArN3NzW0yMP86M-5oKZJLiihfWXQ&s",
+        "category": "Smart Watch",
+        "price": 399.99,
+        "description": "Advanced smartwatch with health tracking and retina display.",
+        "Specification": [
+            "Retina Display",
+            "Heart rate sensor",
+            "Water resistance",
+            "GPS"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "PHN001",
+        "product_title": "Samsung Galaxy S21",
+        "product_image": "https://candytech.in/wp-content/uploads/2021/03/Redmi-Note-10-Pro.jpg",
+        "category": "Phone",
+        "price": 799.99,
+        "description": "Flagship smartphone with high-resolution camera and AMOLED display.",
+        "Specification": [
+            "Exynos 2100 Processor",
+            "8GB RAM",
+            "128GB Storage",
+            "Triple Rear Camera"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "ACC001",
+        "product_title": "Sony WH-1000XM4 Headphones",
+        "product_image": "https://i5.walmartimages.com/asr/3a2214f3-8fbb-45ba-a4a7-9c7ac0e6b6f2.e83f10a4e2aed66cc1a461ba539ccc3d.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        "category": "Accessory",
+        "price": 349.99,
+        "description": "Noise-cancelling wireless headphones with exceptional sound quality.",
+        "Specification": [
+            "40mm drivers",
+            "Active noise-cancellation",
+            "30 hours battery life",
+            "Bluetooth 5.0"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "LAP002",
+        "product_title": "MacBook Pro 16-inch",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTriarVFvdFWUe9t-hiAS8h7EvjWIjFn_NFw&s",
+        "category": "Laptop",
+        "price": 2399.99,
+        "description": "Powerful laptop with M1 Pro chip for high-end performance.",
+        "Specification": [
+            "Apple M1 Pro chip",
+            "16GB Unified Memory",
+            "1TB SSD",
+            "16-inch Retina Display"
+        ],
+        "availability": false,
+        "rating": 4.9
+    },
+    {
+        "product_id": "IPH001",
+        "product_title": "iPhone 13 Pro Max",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThEFZekjyiKx5Hjg5M-FIoZBwlNelS2b-92Q&s",
+        "category": "iPhone",
+        "price": 1099.99,
+        "description": "Apple's latest iPhone with ProMotion display and triple camera.",
+        "Specification": [
+            "Apple A15 Bionic chip",
+            "6.7-inch Super Retina XDR",
+            "128GB Storage",
+            "5G Support"
+        ],
+        "availability": false,
+        "rating": 4.9
+    },
+    {
+        "product_id": "ACC002",
+        "product_title": "Logitech MX Master 3 Mouse",
+        "product_image": "https://s.yimg.com/uu/api/res/1.2/AM7xLNsoBcda74Y36RGZ0Q--~B/aD02ODA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2023-08/b02decb0-3c3f-11ee-b7de-8df896c7fe3f",
+        "category": "Accessory",
+        "price": 99.99,
+        "description": "High-precision wireless mouse designed for productivity.",
+        "Specification": [
+            "4000 DPI sensor",
+            "Customizable buttons",
+            "USB-C charging",
+            "Bluetooth and Unifying receiver"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "LAP003",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLUQ3CPxdW3lJeMS3_ImqvSYZGxGxI5_n82A&s",
+        "category": "Laptop",
+        "price": 1249.99,
+        "description": "2-in-1 convertible laptop with 360-degree hinge and touch display.",
+        "Specification": [
+            "Intel Core i7 Processor",
+            "16GB RAM",
+            "512GB SSD",
+            "13.3-inch OLED display"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "PHN002",
+        "product_title": "Google Pixel 6 Pro",
+        "product_image": "https://www.shutterstock.com/image-photo/sliven-bulgaria-october-18-2019-260nw-1537292855.jpg",
+        "category": "Phone",
+        "price": 899.99,
+        "description": "Google's latest flagship with Tensor chip and top-tier camera.",
+        "Specification": [
+            "Google Tensor Processor",
+            "12GB RAM",
+            "128GB Storage",
+            "50MP Rear Camera"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "WCH002",
+        "product_title": "Samsung Galaxy Watch 4",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzhLr9JArN3NzW0yMP86M-5oKZJLiihfWXQ&s",
+        "category": "Smart Watch",
+        "price": 249.99,
+        "description": "Smartwatch with Wear OS and advanced fitness tracking features.",
+        "Specification": [
+            "Super AMOLED Display",
+            "ECG Monitoring",
+            "Water resistance",
+            "Battery life up to 40 hours"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "IPH002",
+        "product_title": "iPhone SE (2022)",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHh5cHOlVtHdmyuZICVcIhKY8xl0uvk_u1ZOlyCPZYzpE97bxUGSe88_wbr6zrsnYkPwk&usqp=CAU",
+        "category": "iPhone",
+        "price": 429.99,
+        "description": "Compact iPhone with A15 Bionic chip in a classic design.",
+        "Specification": [
+            "Apple A15 Bionic chip",
+            "4.7-inch Retina HD display",
+            "64GB Storage",
+            "5G Support"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "ACC003",
+        "product_title": "Anker PowerCore 10000",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTZyKYPoJLiRsxorsQHlHTmt4xAN525VQTVQ&s",
+        "category": "Accessory",
+        "price": 19.99,
+        "description": "Compact power bank with 10,000mAh capacity.",
+        "Specification": [
+            "10000mAh battery",
+            "USB-A output",
+            "Fast charging",
+            "Compact size"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "LAP004",
+        "product_title": "Lenovo ThinkPad X1 Carbon",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTriarVFvdFWUe9t-hiAS8h7EvjWIjFn_NFw&s",
+        "category": "Laptop",
+        "price": 1499.99,
+        "description": "Lightweight business laptop with powerful internals.",
+        "Specification": [
+            "Intel Core i7 Processor",
+            "16GB RAM",
+            "1TB SSD",
+            "14-inch FHD Display"
+        ],
+        "availability": true,
+        "rating": 4.8
+    }
+    
+]

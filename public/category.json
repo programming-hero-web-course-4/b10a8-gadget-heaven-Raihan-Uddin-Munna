@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "category": "All Product"
+    },
+    {
+      "id": 2,
+      "category": "Laptop"
+    },
+    {
+      "id": 3,
+      "category": "iPhone"
+    },
+    {
+      "id": 4,
+      "category": "Accessory"
+    },
+    {
+      "id": 5,
+      "category": "Smart Watch"
+    },
+    {
+      "id": 6,
+      "category": "MacBook",
+      "slug": "dessert-coffee"
+    },
+    {
+      "id": 7,
+      "category": "Phone",
+      "slug": "dessert-coffee"
+    }
+  ]
