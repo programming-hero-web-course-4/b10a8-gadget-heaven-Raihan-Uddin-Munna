@@ -1,10 +1,10 @@
 ## GadgetHeaven
 
 ## Live Website Link
-[Visit GadgetHeaven](#)
+https://assignment-8-final.netlify.app/
 
 ## Requirement Document Link
-[See Full Requirements](#)
+https://github.com/programming-hero-web-course-4/b10a8-gadget-heaven-Raihan-Uddin-Munna
 
 ## React Concepts Used
 1. Components
